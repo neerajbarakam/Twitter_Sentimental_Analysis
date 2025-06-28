@@ -104,8 +104,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Author**: [Venkata Nithin Inturi]
-- **Email**: [inturi.nitin2004@gmail.com]
+- **Author**: [Neeraj_Kumar_Barakam]
+- **Email**: [neerajbarakam@gmail.com]
 
 ## Acknowledgments
 
